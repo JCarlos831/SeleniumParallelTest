@@ -6,7 +6,7 @@ namespace SeleniumParallelTest
     {
         public Hooks()
         {
-            Driver = new FirefoxDriver();
+            Driver = new FirefoxDriver(@"C:\Users\A-JMontoya\source\repos\SeleniumParallelTest\SeleniumParallelTest\bin\Debug");
         }
     }
 }
